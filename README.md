@@ -18,6 +18,12 @@ LT-Spice
 
 
 ## SIMULATION OUTPUT:
+## LOW PASS:
+<img width="1397" height="390" alt="image" src="https://github.com/user-attachments/assets/e9f16e4d-ff79-45d5-944b-5b6450118ddd" />
+## HIGH PASS:
+<img width="1395" height="359" alt="image" src="https://github.com/user-attachments/assets/6aef8dcc-cf63-4439-b674-4b05ad3d57cd" />
+## BAND PASS:
+<img width="1385" height="366" alt="image" src="https://github.com/user-attachments/assets/306b94b6-5a5b-4d6b-afa9-3b9c3de4700f" />
 
 
 ## RESULT :
